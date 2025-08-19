@@ -3,5 +3,6 @@ print("hjoejwof")
 print("hellow rldland how are you")
 print("hello world")
 #hi hello this is a print
-
-print("hellow rodlds")
+i=0
+if(i==0):
+    print("ehllo")
