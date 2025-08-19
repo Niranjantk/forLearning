@@ -6,5 +6,3 @@ print("hello world")
 
 print("nrianjan")
 print("hello worldi")
-
-print("hellow rodl")
